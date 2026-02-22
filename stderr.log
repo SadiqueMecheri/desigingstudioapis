@@ -1,0 +1,374 @@
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/hgohgcos/designingstudio/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/home/hgohgcos/designingstudio/app.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/hgohgcos/designingstudio/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/hgohgcos/designingstudio/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/home/hgohgcos/designingstudio/app.js:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/hgohgcos/designingstudio/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '../../Utils/cloudinary'
+Require stack:
+- /home/hgohgcos/designingstudio/api/users/user.controller.js
+- /home/hgohgcos/designingstudio/api/users/user.router.js
+- /home/hgohgcos/designingstudio/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/home/hgohgcos/designingstudio/api/users/user.controller.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/hgohgcos/designingstudio/api/users/user.controller.js',
+    '/home/hgohgcos/designingstudio/api/users/user.router.js',
+    '/home/hgohgcos/designingstudio/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '../../Utils/cloudinary'
+Require stack:
+- /home/hgohgcos/designingstudio/api/users/user.controller.js
+- /home/hgohgcos/designingstudio/api/users/user.router.js
+- /home/hgohgcos/designingstudio/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/home/hgohgcos/designingstudio/api/users/user.controller.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/hgohgcos/designingstudio/api/users/user.controller.js',
+    '/home/hgohgcos/designingstudio/api/users/user.router.js',
+    '/home/hgohgcos/designingstudio/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '../../Utils/cloudinary'
+Require stack:
+- /home/hgohgcos/designingstudio/api/users/user.controller.js
+- /home/hgohgcos/designingstudio/api/users/user.router.js
+- /home/hgohgcos/designingstudio/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/home/hgohgcos/designingstudio/api/users/user.controller.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/hgohgcos/designingstudio/api/users/user.controller.js',
+    '/home/hgohgcos/designingstudio/api/users/user.router.js',
+    '/home/hgohgcos/designingstudio/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '../../Utils/cloudinary'
+Require stack:
+- /home/hgohgcos/designingstudio/api/users/user.controller.js
+- /home/hgohgcos/designingstudio/api/users/user.router.js
+- /home/hgohgcos/designingstudio/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/home/hgohgcos/designingstudio/api/users/user.controller.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/hgohgcos/designingstudio/api/users/user.controller.js',
+    '/home/hgohgcos/designingstudio/api/users/user.router.js',
+    '/home/hgohgcos/designingstudio/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+node:internal/modules/cjs/loader:1031
+  throw err;
+  ^
+
+Error: Cannot find module '../../Utils/cloudinary'
+Require stack:
+- /home/hgohgcos/designingstudio/api/users/user.controller.js
+- /home/hgohgcos/designingstudio/api/users/user.router.js
+- /home/hgohgcos/designingstudio/app.js
+- /usr/local/lsws/fcgi-bin/lsnode.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1028:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:873:27)
+    at Module.require (node:internal/modules/cjs/loader:1100:19)
+    at require (node:internal/modules/cjs/helpers:119:18)
+    at Object.<anonymous> (/home/hgohgcos/designingstudio/api/users/user.controller.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1198:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1252:10)
+    at Module.load (node:internal/modules/cjs/loader:1076:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:911:12)
+    at Module.require (node:internal/modules/cjs/loader:1100:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/hgohgcos/designingstudio/api/users/user.controller.js',
+    '/home/hgohgcos/designingstudio/api/users/user.router.js',
+    '/home/hgohgcos/designingstudio/app.js',
+    '/usr/local/lsws/fcgi-bin/lsnode.js'
+  ]
+}
+/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:387:5)
+    at ServerResponse.setHeader (node:_http_outgoing:644:11)
+    at ServerResponse.header (/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/express/lib/response.js:278:15)
+    at /home/hgohgcos/designingstudio/api/users/user.controller.js:222:20
+    at Query._callback (/home/hgohgcos/designingstudio/api/users/user.service.js:86:16)
+    at Query.Sequence.end (/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at /home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/mysql/lib/Pool.js:205:13
+    at Handshake.onConnect (/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/mysql/lib/Pool.js:58:9) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/mysql/lib/protocol/Parser.js:437
+      throw err; // Rethrow non-MySQL errors
+      ^
+
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:387:5)
+    at ServerResponse.setHeader (node:_http_outgoing:644:11)
+    at ServerResponse.header (/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/express/lib/response.js:794:10)
+    at ServerResponse.send (/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/express/lib/response.js:174:12)
+    at ServerResponse.json (/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/express/lib/response.js:278:15)
+    at /home/hgohgcos/designingstudio/api/users/user.controller.js:222:20
+    at Query._callback (/home/hgohgcos/designingstudio/api/users/user.service.js:86:16)
+    at Query.Sequence.end (/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/mysql/lib/protocol/sequences/Sequence.js:83:24)
+    at /home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/mysql/lib/Pool.js:205:13
+    at Handshake.onConnect (/home/hgohgcos/nodevenv/designingstudio/16/lib/node_modules/mysql/lib/Pool.js:58:9) {
+  code: 'ERR_HTTP_HEADERS_SENT'
+}
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='utf-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'dotenv'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/hgohgcos/desginigstudioapi/app.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/lib/types/json.js:51
+  var reviver = options?.reviver
+                        ^
+
+SyntaxError: Unexpected token .
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Function.get [as json] (/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/index.js:30:14)
+    at Object.<anonymous> (/home/hgohgcos/desginigstudioapi/app.js:9:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/lib/types/json.js:51
+  var reviver = options?.reviver
+                        ^
+
+SyntaxError: Unexpected token .
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Function.get [as json] (/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/index.js:30:14)
+    at Object.<anonymous> (/home/hgohgcos/desginigstudioapi/app.js:9:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/lib/types/json.js:51
+  var reviver = options?.reviver
+                        ^
+
+SyntaxError: Unexpected token .
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Function.get [as json] (/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/index.js:30:14)
+    at Object.<anonymous> (/home/hgohgcos/desginigstudioapi/app.js:9:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/lib/types/json.js:51
+  var reviver = options?.reviver
+                        ^
+
+SyntaxError: Unexpected token .
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Function.get [as json] (/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/index.js:30:14)
+    at Object.<anonymous> (/home/hgohgcos/desginigstudioapi/app.js:9:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/lib/types/json.js:51
+  var reviver = options?.reviver
+                        ^
+
+SyntaxError: Unexpected token .
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Function.get [as json] (/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/index.js:30:14)
+    at Object.<anonymous> (/home/hgohgcos/desginigstudioapi/app.js:9:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/lib/types/json.js:51
+  var reviver = options?.reviver
+                        ^
+
+SyntaxError: Unexpected token .
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Function.get [as json] (/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/index.js:30:14)
+    at Object.<anonymous> (/home/hgohgcos/desginigstudioapi/app.js:9:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/lib/types/json.js:51
+  var reviver = options?.reviver
+                        ^
+
+SyntaxError: Unexpected token .
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Function.get [as json] (/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/index.js:30:14)
+    at Object.<anonymous> (/home/hgohgcos/desginigstudioapi/app.js:9:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/lib/types/json.js:51
+  var reviver = options?.reviver
+                        ^
+
+SyntaxError: Unexpected token .
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Function.get [as json] (/home/hgohgcos/nodevenv/desginigstudioapi/10/lib/node_modules/body-parser/index.js:30:14)
+    at Object.<anonymous> (/home/hgohgcos/desginigstudioapi/app.js:9:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/hgohgcos/nodevenv/desginigstudioapi/19/lib/node_modules/body-parser/lib/types/json.js:51
+  var reviver = options?.reviver
+                        ^
+
+SyntaxError: Unexpected token .
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Function.get [as json] (/home/hgohgcos/nodevenv/desginigstudioapi/19/lib/node_modules/body-parser/index.js:30:14)
+    at Object.<anonymous> (/home/hgohgcos/desginigstudioapi/app.js:9:20)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
